@@ -1,0 +1,1 @@
+This simple application provides a services whereby a user can share their location with another party. They can login, upload their location to the server, where it can be accessed by another user. An SMS message is sent to the recipient, with a code that they can use to download the location onto ther phone. The route from their current location is displayed on the screen.

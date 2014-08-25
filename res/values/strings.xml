@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DMS_Assignment_Two</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="location_string">location</string>
+    <string name="response_string">response</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="name_activity_login">Login</string>
+    <string name="login_button_label">Submit</string>
+    <string name="login_e_password_empty">Password field empty</string>
+    <string name="login_e_handle_empty">Handle field empty</string>
+    <string name="view_loc_button_label">View Location</string>
+    <string name="send_loc_button_label">Send Location</string>
+    <string name="submit_loc_id_label">Submit Location Id</string>
+    <string name="title_activity_location">LocationActivity</string>
+    <string name="sent_location">SENT_STRING</string>
+    <string name="cookie_manager">COOKIE_MONSTER</string>
+    <string name="sms_message">
+        "This message has been sent to you from heyBro. Using the app, enter the location id below to get a map of the location of your friend"
+    </string>
+    
+    <string name="path_select">Select Path</string>
+    <string name="user_server_url">http://192.168.0.10:8080/AndroidServer/UserServlet</string>
+	<string name="google_directios_server">http://maps.googleapis.com/maps/api/directions/json</string>
+</resources>
